@@ -9,6 +9,7 @@ h1 {
 p {
   color: grey;
   text-align: center;
+  font-size: 24px;
 }
 
 a {
@@ -16,17 +17,17 @@ a {
 }
 .sitat {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 34px;
   font-style: italic;
 }
 a {
   text-align: center;
 }
 img {
-  width: 200px;
+  width: 400px;
   border-radius: 50%;
   border-color: gray;
-  border-width: 4px;
+  border-width: 10px;
   border-style: solid;
   display: block;
   margin-left: auto;
